@@ -2,16 +2,15 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>LSCNR</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/IllInuz/lscnrwiki',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.com/lscnr',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
-    text: 'Nextra Docs Template',
+    text: '© 2024 LSCNR - All rights reserved.',
   },
 }
 
