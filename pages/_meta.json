@@ -1,6 +1,7 @@
 {
   "index": "Welcome",
   "rules": "Rules",
+  "advanced": "Advanced (A Folder)",
   "about": {
     "title": "About",
     "type": "page"
